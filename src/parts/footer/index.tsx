@@ -23,7 +23,7 @@ export default function Footer() {
             <h3 className="text-xl font-semibold mb-4">Contato</h3>
             <p className="text-gray-300 mb-2">Email: levi.moraes@dovahtech.com</p>
             <p className="text-gray-300 mb-2">Telefone: (19) 99632-0129</p>
-            {/* <p className="text-gray-300">Endereço: , 1000 - São Paulo, SP</p> */}
+            <p className="text-gray-300">Endereço: R Dr Pedro Agápio de Aquino Neto - Campinas, SP</p>
           </div>
           <div>
             <h3 className="text-xl font-semibold mb-4">Redes Sociais</h3>

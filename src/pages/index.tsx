@@ -58,6 +58,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <Team equipe={time}/>
       </main>
       <Footer/>
+      
     </>
   );
 };
