@@ -45,7 +45,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <Header />
       <main className=" w-full min-h-screen container-lg mx-auto bg-gray-300 font-montserrat">
         <Section className="py-48 px-4 bg-[url('https://i.gifer.com/J4o.gif')] bg-cover">
-          <h1 className="text-7xl text-white font-medium">Dovahtech</h1>
+          <h1 className="text-4xl md:text-7xl text-white font-medium">Dovahtech</h1>
           <h4 className="text-2xl text-white font-light">
             Facilitando a Gestão Pública por meio da tecnologia
           </h4>
