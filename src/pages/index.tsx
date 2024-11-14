@@ -28,7 +28,7 @@ const IndexPage: React.FC<PageProps> = () => {
     },
     {
       nome: "Dener Bassani",
-      imagem: "https://scontent.fmii2-1.fna.fbcdn.net/v/t39.30808-6/463624024_8284777594978841_5358098751387762675_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHahblKZ6SBnUM4tJm0ycTASKghFAkhv4hIqCEUCSG_iPxO_RyUnZmwvjZY9gvWE-4ooVfFR22nvCZJ1opj-2pw&_nc_ohc=yiRylYC5P-YQ7kNvgGgF1zQ&_nc_zt=23&_nc_ht=scontent.fmii2-1.fna&_nc_gid=AV7STNH15IO1iApuQdhWvfM&oh=00_AYCiTgXwTgiQHYzi7wwHk0uIv-rZCMxFd01j7ZKYrxWcnA&oe=6731D4F3",
+      imagem: "https://avatars.githubusercontent.com/u/66225827?v=4&size=auto",
       cargo: "Teste Qualidade",
       formacao: "TI"
     },
