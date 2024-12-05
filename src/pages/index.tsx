@@ -53,7 +53,7 @@ const IndexPage: React.FC<PageProps> = () => {
             Saiba Mais
           </button> */}
         </Section>
-        {/* <Depoimentos/> */}
+        <Depoimentos/>
       <Servicos/>
         <Team equipe={time}/>
       </main>
