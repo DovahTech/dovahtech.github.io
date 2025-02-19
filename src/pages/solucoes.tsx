@@ -1,9 +1,10 @@
 import { Header } from "@components/Header"
+import { HeadFC, PageProps } from "gatsby";
 import React from "react"
 
 
 
-export default function Solucoes (){
+const Solucoes:React.FC<PageProps> = () => {
   return(
     <>
     <Header/>
@@ -85,4 +86,9 @@ export default function Solucoes (){
 
     </>
   )
-}
+};
+
+export default Solucoes;
+
+
+export const Head: HeadFC = () => <title>Dovah Tech - Nossas Soluções</title>;
