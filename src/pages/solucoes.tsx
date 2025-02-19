@@ -24,12 +24,12 @@ export default function Solucoes (){
               <li>Relatórios detalhados de consumo</li>
               <li>Interface intuitiva e fácil de usar</li>
             </ul>
-            <button className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">
-              Saiba mais
-            </button>
+            <a href="https://wa.link/hvvgvu" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition duration-300">
+              Saiba Mais
+            </a>
           </div>
 
-          <div className="bg-white rounded-lg shadow-md p-6">
+          {/* <div className="bg-white rounded-lg shadow-md p-6">
             <h2 className="text-2xl font-semibold mb-4">Cidade Conecta</h2>
             <p className="text-gray-600 mb-4">
               Aplicativo de turismo que conecta visitantes aos principais pontos turísticos, 
@@ -44,7 +44,7 @@ export default function Solucoes (){
             <button className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 transition duration-300">
               Conheça o app
             </button>
-          </div>
+          </div> */}
           {/* <div className="bg-white rounded-lg shadow-md p-6">
             <h2 className="text-2xl font-semibold mb-4">Ponto Unificado</h2>
             <p className="text-gray-600 mb-4">

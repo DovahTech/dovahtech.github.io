@@ -6,7 +6,7 @@ import { Link } from "gatsby";
 export function Header() {
   const menu = [
     { name: "Início", link: "/" },
-    // { name: "Soluções", link: "/solucoes" },
+    { name: "Nossas Soluções", link: "/solucoes" },
   ];
 
   return (
