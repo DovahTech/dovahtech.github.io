@@ -1,4 +1,5 @@
 import { Header } from "@components/Header"
+import Footer from "@parts/footer";
 import { HeadFC, PageProps } from "gatsby";
 import React from "react"
 
@@ -83,7 +84,7 @@ const Solucoes:React.FC<PageProps> = () => {
         </div>
       </section>
     </main>
-
+    <Footer/>
     </>
   )
 };
